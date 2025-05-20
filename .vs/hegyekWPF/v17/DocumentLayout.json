@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benji\\source\\hegyekWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{989F2B42-153A-4643-880A-61013B532F96}|hegyekWPF\\hegyekWPF.csproj|c:\\users\\benji\\source\\hegyekwpf\\hegyekwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989F2B42-153A-4643-880A-61013B532F96}|hegyekWPF\\hegyekWPF.csproj|solutionrelative:hegyekwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989F2B42-153A-4643-880A-61013B532F96}|hegyekWPF\\hegyekWPF.csproj|c:\\users\\benji\\source\\hegyekwpf\\hegyekwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{989F2B42-153A-4643-880A-61013B532F96}|hegyekWPF\\hegyekWPF.csproj|solutionrelative:hegyekwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benji\\AppData\\Local\\Temp\\.vsdbgsrc\\87e8fa7b41b167ab42b8b5aeea9768abb45906dd3d4a5ea75c8820fcb97f3545\\ItemContainerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 486,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemContainerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\benji\\AppData\\Local\\Temp\\.vsdbgsrc\\87e8fa7b41b167ab42b8b5aeea9768abb45906dd3d4a5ea75c8820fcb97f3545\\ItemContainerGenerator.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\87e8fa7b41b167ab42b8b5aeea9768abb45906dd3d4a5ea75c8820fcb97f3545\\ItemContainerGenerator.cs",
+              "ToolTip": "C:\\Users\\benji\\AppData\\Local\\Temp\\.vsdbgsrc\\87e8fa7b41b167ab42b8b5aeea9768abb45906dd3d4a5ea75c8820fcb97f3545\\ItemContainerGenerator.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\87e8fa7b41b167ab42b8b5aeea9768abb45906dd3d4a5ea75c8820fcb97f3545\\ItemContainerGenerator.cs [Read Only]",
+              "ViewState": "AQIAAGMFAAAAAAAAAAAUwHsFAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:34:37.118Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\benji\\source\\hegyekWPF\\hegyekWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "hegyekWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\benji\\source\\hegyekWPF\\hegyekWPF\\MainWindow.xaml",
+              "RelativeToolTip": "hegyekWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T16:59:37.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\benji\\source\\hegyekWPF\\hegyekWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "hegyekWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\benji\\source\\hegyekWPF\\hegyekWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "hegyekWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:59:35.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
