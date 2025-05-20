@@ -1,0 +1,8 @@
+C:\Users\benji\source\hegyekCLI\hegyekCLI\bin\Debug\hegyekCLI.exe.config
+C:\Users\benji\source\hegyekCLI\hegyekCLI\bin\Debug\hegyekCLI.exe
+C:\Users\benji\source\hegyekCLI\hegyekCLI\bin\Debug\hegyekCLI.pdb
+C:\Users\benji\source\hegyekCLI\hegyekCLI\obj\Debug\hegyekCLI.csproj.AssemblyReference.cache
+C:\Users\benji\source\hegyekCLI\hegyekCLI\obj\Debug\hegyekCLI.csproj.CoreCompileInputs.cache
+C:\Users\benji\source\hegyekCLI\hegyekCLI\obj\Debug\hegyekCLI.exe
+C:\Users\benji\source\hegyekCLI\hegyekCLI\obj\Debug\hegyekCLI.pdb
+C:\Users\benji\source\hegyekCLI\hegyekCLI\bin\Debug\hegyek.csv
